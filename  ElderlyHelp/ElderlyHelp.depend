@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622579477 source:c:\users\teste\documents\aula de algoritmos\ elderlyhelp\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+

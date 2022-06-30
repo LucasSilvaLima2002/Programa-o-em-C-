@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618804329 source:c:\users\teste\documents\aula de algoritmos\thiago\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620508268 source:c:\users\teste\documents\aula de algoritmos\strutct 2\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+
